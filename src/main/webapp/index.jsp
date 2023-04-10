@@ -4,10 +4,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>CIISA</title>
     </head>
     <body>
-        <h1>Hola mundo!</h1>
+        <h1>Bienvenido a CIISA!</h1>
         <form action="SvIngreso" method="post">
            Nombre Usuario: <br> <input type="text" name="nombre_usuario" value="" placeholder="Escriba su Nombre aqui" />
             <br>Sección:<br> <input type="text" name="seccion" value="" placeholder="Escriba su sección aqui" />

@@ -13,6 +13,6 @@
         
         %>
        
-        <h1>Bienvenido <%= strUsuario %> Su seccion es la :<%= strSeccion %> </h1>
+        <h1>Bienvenido <%= strUsuario %> su seccion es la <%= strSeccion %> </h1>
     </body>
 </html>
